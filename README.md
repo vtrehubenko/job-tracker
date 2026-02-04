@@ -53,6 +53,7 @@ npm install
 Start the development server:
 
 npm run dev
+
 🎯 Learning Goals
 
 This project was created to strengthen practical skills in:

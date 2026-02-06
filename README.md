@@ -67,4 +67,4 @@ Volodymyr (Vova)
 Frontend Developer in progress 🚀
 
 GitHub:
-👉 https://github.com/VolodyaLetov
+👉 https://github.com/vtrehubenko/job-tracker
